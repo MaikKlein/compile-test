@@ -1,0 +1,8 @@
+[package]
+name = "lib"
+version = "0.1.0"
+authors = ["Maik Klein <maikklein@googlemail.com>"]
+
+[dependencies.crunchy]
+version = "0.1.6"
+features = ["limit_2048"]
